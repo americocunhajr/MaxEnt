@@ -1,6 +1,3 @@
-# 
-MaxEnt 
-
 <img src="logo/MaxEnt.png" width="40%">
 
 **MaxEnt - Maximum Entropy Code** is an easy to run code for calculation of maximum entropy distributions given a certain set of statistical information. The implementation follows an educational style, to make its use very intuitive.
