@@ -1,11 +1,6 @@
 <img src="logo/MaxEnt.png" width="40%">
 
-**MaxEnt - Maximum Entropy Code** is an easy to run code for calculation of maximum entropy distributions given a certain set of statistical information. The implementation follows an educational style, to make its use very intuitive.
-
-## Software History
-
-This code was developed to conduct numerical simulations related to the robust optimization and uncertainty quantification of an elevator brake system. The underlying results are reported in the following paper:
-- *A. Cunha Jr, xxx, 2020*
+**MaxEnt - Maximum Entropy Code** is an easy to run code for calculation of the maximum entropy distribution given a set of statistical information. The implementation follows an educational style, to make its use very intuitive.
 
 ## Documentation
 
