@@ -12,7 +12,7 @@
 ## Citing MaxEnt
 
 We kindly ask users to cite the following reference in any publications reporting work done with **MaxEnt**:
-- *A. Cunha Jr, xxx, 2020*
+- *A. Cunha Jr, MaxEnt - Maximum Entropy Code, 2020*
 
 ## License
 
