@@ -14,6 +14,17 @@
 We kindly ask users to cite the following reference in any publications reporting work done with **MaxEnt**:
 - *A. Cunha Jr, MaxEnt - Maximum Entropy Code, 2020*
 
+```
+@misc{CunhaJr2020MaxEnt,
+   author       = {A. {Cunha~Jr}},
+   title        = {{MaxEnt} - {M}aximum {E}ntropy {C}ode},
+   year         = {2020},
+   publisher    = {GitHub},
+   journal      = {GitHub repository},
+   howpublished = {\url{https://americocunhajr.github.io/MaxEnt/}},
+}
+```
+
 ## License
 
 **MaxEnt** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
