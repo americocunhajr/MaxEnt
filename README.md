@@ -12,7 +12,7 @@
 ## Citing MaxEnt
 
 We kindly ask users to cite the following reference in any publications reporting work done with **MaxEnt**:
-- *A. Cunha Jr, MaxEnt - Maximum Entropy Code, 2020*
+- *A. Cunha Jr, MaxEnt - Maximum Entropy Code, GitHub repository, 2020*
 
 ```
 @misc{CunhaJr2020MaxEnt,
@@ -21,7 +21,7 @@ We kindly ask users to cite the following reference in any publications reportin
    year         = {2020},
    publisher    = {GitHub},
    journal      = {GitHub repository},
-   howpublished = {\url{https://americocunhajr.github.io/MaxEnt/}},
+   howpublished = {\url{https://americocunhajr.github.io/MaxEnt}},
 }
 ```
 
