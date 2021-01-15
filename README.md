@@ -17,7 +17,7 @@ We kindly ask users to cite the following reference in any publications reportin
 ```
 @misc{CunhaJr2020MaxEnt,
    author       = {A. {Cunha~Jr}},
-   title        = {{MaxEnt} - {M}aximum {E}ntropy {C}ode},
+   title        = { {MaxEnt} - {M}aximum {E}ntropy {C}ode},
    year         = {2020},
    publisher    = {GitHub},
    journal      = {GitHub repository},
