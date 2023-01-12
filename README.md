@@ -7,7 +7,7 @@
 **MaxEnt** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs. Examples with a few, but representative, benchmark tests are provided to illustrate the code functionality.
 
 ## Author
-- Americo Cunha
+- Americo Cunha Jr
 
 ## Citing MaxEnt
 
