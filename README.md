@@ -1,6 +1,6 @@
 <img src="logo/MaxEnt.png" width="40%">
 
-**MaxEnt - Maximum Entropy Code** is an easy-to-run Matlab code for the calculation of the maximum entropy distributions and the corresponding statistical samples from a given set of known information. The implementation is numerically robust and follows an educational style, to make its use very intuitive. Examples with representative benchmark tests are provided.
+**MaxEnt: Maximum Entropy Code** is an easy-to-run Matlab code for the calculation of the maximum entropy distributions and the corresponding statistical samples from a given set of known information. The implementation is numerically robust and follows an educational style, to make its use very intuitive. Examples with representative benchmark tests are provided.
 
 ## Documentation
 
