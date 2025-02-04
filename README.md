@@ -48,7 +48,7 @@ We kindly ask users to cite the following reference in any publications reportin
    year         = {2020},
    publisher    = {GitHub},
    journal      = {GitHub repository},
-   howpublished = {\url{https://americocunhajr.github.io/MaxEnt}},
+   howpublished = {\url{https://MaxEntCode.org}},
 }
 ```
 
