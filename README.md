@@ -60,8 +60,8 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ### Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> 
+<img src="logo/logo_uerj.png" width="13%"> 
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
